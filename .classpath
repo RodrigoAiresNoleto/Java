@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Calculadora/src"/>
+	<classpathentry kind="src" path="Calcular_salario_exercicio/src"/>
+	<classpathentry kind="src" path="Função_primeiro_Grau/src"/>
+	<classpathentry kind="output" path="Calculadora/bin"/>
+</classpath>

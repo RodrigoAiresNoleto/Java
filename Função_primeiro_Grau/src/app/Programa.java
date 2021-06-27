@@ -33,7 +33,7 @@ public class Programa {
 		
 
 		
-		System.out.print("Determine o valor para calcular a produção de um determinado Quantidade de peças : ");
+		System.out.print("Determine o valor para calcular a produção de uma determinada quantidade de peças : ");
 		modelo.vp = sc.nextInt();
 		
 		modelo.res = modelo.Quantidadepecas();
