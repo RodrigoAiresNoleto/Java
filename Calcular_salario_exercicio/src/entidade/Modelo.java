@@ -7,6 +7,7 @@ public class Modelo {
     public double porc;
     public double calliquido;
 
+
     public double calSalario(){
       calliquido = SalarioBruto - imposto;
       return calliquido;
